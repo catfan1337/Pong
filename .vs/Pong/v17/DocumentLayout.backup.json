@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dream\\source\\repos\\Pong\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861CCC1E-677B-4C4A-B0AF-4CDC9D3A5628}|Pong\\Pong.csproj|c:\\users\\dream\\source\\repos\\pong\\pong\\pong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{861CCC1E-677B-4C4A-B0AF-4CDC9D3A5628}|Pong\\Pong.csproj|solutionrelative:pong\\pong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pong.csproj",
+              "DocumentMoniker": "C:\\Users\\dream\\source\\repos\\Pong\\Pong\\Pong.csproj",
+              "RelativeDocumentMoniker": "Pong\\Pong.csproj",
+              "ToolTip": "C:\\Users\\dream\\source\\repos\\Pong\\Pong\\Pong.csproj*",
+              "RelativeToolTip": "Pong\\Pong.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T09:44:14.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

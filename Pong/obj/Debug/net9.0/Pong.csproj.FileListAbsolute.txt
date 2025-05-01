@@ -23,3 +23,6 @@ C:\Users\dream\source\repos\Pong\Pong\obj\Debug\net9.0\refint\Pong.dll
 C:\Users\dream\source\repos\Pong\Pong\obj\Debug\net9.0\Pong.pdb
 C:\Users\dream\source\repos\Pong\Pong\obj\Debug\net9.0\Pong.genruntimeconfig.cache
 C:\Users\dream\source\repos\Pong\Pong\obj\Debug\net9.0\ref\Pong.dll
+C:\Users\dream\source\repos\Pong\Pong\obj\Debug\net9.0\Pong.sourcelink.json
+C:\Users\dream\source\repos\Pong\Pong\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\dream\source\repos\Pong\Pong\bin\Debug\net9.0\MonoGameLibrary.pdb
